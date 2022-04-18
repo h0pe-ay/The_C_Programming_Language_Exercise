@@ -3,6 +3,7 @@
 
 int main()
 {
-	printf("Hello World!\c\n"); // \c代表的是字符c 
+	printf("Hello World!\c\n"); // \c麓煤卤铆碌脛脢脟脳脰路没c 
 	printf("I am \c!!\n");
+	return 0;
  } 
